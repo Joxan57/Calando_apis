@@ -1,0 +1,42 @@
+body {
+    background: #fafafa;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+#menu {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    background: #3498db;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #217dbb;
+}
+
+#breed-img {
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#breed-info {
+    text-align: left;
+    width: 300px;
+    margin: 20px auto;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    list-style: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
