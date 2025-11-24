@@ -1,5 +1,5 @@
 // Razas que quieres mostrar
-const breeds = ["labrador", "pug", "husky", "chihuahua"];
+const breeds = ["labrador", "pug", "husky", "akita", "bulldog"];
 
 // Contenedores del HTML
 const menu = document.getElementById("menu");
